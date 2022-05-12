@@ -1,4 +1,4 @@
-# practice-git_commands
+# linux practice everyday
  hello everyone hello guys 
 hello everyone hello guys
 hello everyone hello guys
