@@ -1,0 +1,16 @@
+   35  ls
+   36  sudo ssh -i "admin.pem" ubuntu@ec2-23-23-71-82.compute-1.amazonaws.com
+   37  cd new
+   38  ls
+   39  cd \Desktopexit
+   40  exit
+   41  sudo ssh -i "admin.pem" ubuntu@ec2-23-23-71-82.compute-1.amazonaws.com
+   42  clear
+   43  ls
+   44  sudo scp -i admin.pem ../Python/a.txt ubuntu@ec2-23-23-71-82.compute-1.amazonaws.com:/home/ubuntu/new
+   45  sudo ssh -i "admin.pem" ubuntu@ec2-23-23-71-82.compute-1.amazonaws.com
+   46  cd desktop
+   47  ls
+   48  cd aws-linux
+   49  ls
+   50  sudo ssh -i "admin.pem" ubuntu@ec2-23-23-71-82.compute-1.amazonaws.com
